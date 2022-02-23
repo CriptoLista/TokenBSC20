@@ -1,8 +1,5 @@
-/**
- *Submitted for verification at BscScan.com on 2020-09-09
-*/
-
 pragma solidity 0.5.16;
+// SPDX-License-Identifier: Unlicensed
 
 interface IBEP20 {
   /**
